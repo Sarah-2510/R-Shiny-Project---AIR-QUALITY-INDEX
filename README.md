@@ -5,7 +5,7 @@
 The dataset was taken from Kaggle. It is publicly available by the Central Pollution
 Control Board (CPCB) which is the official portal of the Government of India
 
-### About The Data 
+### Data Description 
 The dataset consisted of approximately 30,000 rows with data for 26 cities and 12
 different pollutants contributing to the air quality Index (AQI) over a time span of 5
 years i.e;2015-2020.
@@ -23,7 +23,7 @@ easily comprehensible terms. It converts the complex air quality data of differe
 numerical value (index value), terminology and colour. The main objective of the AQI is to
 inform and caution the public about the risk of exposure to daily pollution levels.
 
-### Project Aim 
+### Project Goal
 The project aimed at analysing Air Quality Data for various cities in India over a time
 period of 2017-2019. The project analyses the same data in multiple ways using different
 statistical tools and visualization tools to derive insights from the changing trends over
