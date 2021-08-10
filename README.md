@@ -1,5 +1,19 @@
 # R-Shiny-Project---AIR-QUALITY INDEX-
 
+## Introduction 
+
+### What is Air Quality Index ? 
+The Air Quality Index is a scale designed to convey the current state of air quality to people in
+easily comprehensible terms. It converts the complex air quality data of different pollutants into a
+numerical value (index value), terminology and colour. The main objective of the AQI is to
+inform and caution the public about the risk of exposure to daily pollution levels.
+
+### Project Goal
+The project aimed at analysing Air Quality Data for various cities in India over a time
+period of 2017-2019. The project analyses the same data in multiple ways using different
+statistical tools and visualization tools to derive insights from the changing trends over
+years.
+
 ## Data 
 ### Link To The Dataset - https://www.kaggle.com/rohanrao/air-quality-data-in-india 
 The dataset was taken from Kaggle. It is publicly available by the Central Pollution
@@ -17,20 +31,6 @@ were left after the pre-processing of the data.
 
 ## Pre-requisites
 Install all of the libraries listed in the Requirements.txt file.
-
-## Introduction 
-
-### What is Air Quality Index ? 
-The Air Quality Index is a scale designed to convey the current state of air quality to people in
-easily comprehensible terms. It converts the complex air quality data of different pollutants into a
-numerical value (index value), terminology and colour. The main objective of the AQI is to
-inform and caution the public about the risk of exposure to daily pollution levels.
-
-### Project Goal
-The project aimed at analysing Air Quality Data for various cities in India over a time
-period of 2017-2019. The project analyses the same data in multiple ways using different
-statistical tools and visualization tools to derive insights from the changing trends over
-years.
 
 ## Conclusion 
 Through these graphs and statistical tools, it was seen how AQI has changed over the 
