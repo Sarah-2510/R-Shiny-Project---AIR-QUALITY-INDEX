@@ -17,6 +17,12 @@ were filteres out. The missing values were treated using linear interpolation. A
 
 ## Introduction 
 
+### What is Air Quality Index ? 
+The Air Quality Index is a scale designed to convey the current state of air quality to people in
+easily comprehensible terms. It converts the complex air quality data of different pollutants into a
+numerical value (index value), terminology and colour. The main objective of the AQI is to
+inform and caution the public about the risk of exposure to daily pollution levels.
+
 ### Project Aim 
 The project aimed at analysing Air Quality Data for various cities in India over a time
 period of 2017-2019. The project analyses the same data in multiple ways using different
