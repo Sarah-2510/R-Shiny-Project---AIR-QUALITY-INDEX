@@ -2,7 +2,7 @@
 
 ## Data 
 ### Link To The Dataset - https://www.kaggle.com/rohanrao/air-quality-data-in-india 
-We have taken the dataset from Kaggle. This data is publicly available by the Central Pollution
+The dataset was taken from Kaggle. It is publicly available by the Central Pollution
 Control Board (CPCB) which is the official portal of the Government of India
 
 ### About The Data 
@@ -12,8 +12,8 @@ years i.e;2015-2020.
 
 ### Pre-Processing
 The time period chosen was 2017-2019. Then, the cities with the highest variation in AQI levels 
-were filtered out. The missing values were treated using linear interpolation. About 8540 rows and 14 columns were left
-after pre-processing.
+were filtered out. The missing values were treated using linear interpolation. About 8540 rows and 14 columns
+were left after pre-processing.
 
 ## Introduction 
 
