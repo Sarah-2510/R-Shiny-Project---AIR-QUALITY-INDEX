@@ -11,9 +11,9 @@ different pollutants contributing to the air quality Index (AQI) over a time spa
 years i.e;2015-2020.
 
 ### Pre-Processing
-The time period chosen was 2017-2019. Then , the cities with highest variation in AQI levels 
-were filteres out. The missing values were treated using linear interpolation. After pre-processing, roughly 
-8540 rows and 14 columns were left.  
+The time period chosen was 2017-2019. Then, the cities with the highest variation in AQI levels 
+were filtered out. The missing values were treated using linear interpolation. About 8540 rows and 14 columns were left
+after pre-processing.
 
 ## Introduction 
 
