@@ -15,6 +15,9 @@ The time period chosen was 2017-2019. Then, the cities with the highest variatio
 were filtered out. The missing values were treated using linear interpolation. About 8540 rows and 14 columns
 were left after pre-processing.
 
+## Pre-requisites
+Install all of the libraries listed in the Requirements.txt file.
+
 ## Introduction 
 
 ### What is Air Quality Index ? 
