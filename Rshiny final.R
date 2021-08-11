@@ -13,7 +13,7 @@ library(shinythemes)
 #                                              READING THE FILES
 #  --------------------------------------------------------------------------------------------------------
 title <- tags$img(src='logo.png',height='50', width='46'," E N V I R O N S")
-Datafinal= read.csv("C:/Users/prathibha k s/OneDrive/Desktop/R shiny/finalDS.csv")
+Datafinal= read.csv("C:/Users/SARAH/Desktop/Projects SJC/R shiny/Dataset/finalDS.csv")
 Datafinal$Date = as.Date(Datafinal$Date,"%d-%m-%Y")
 Datafinal <- mutate(Datafinal, Year = format(Date,"%Y"))
 Year<-unique(Datafinal$Year)
@@ -299,7 +299,7 @@ output$heatmap <- renderPlot({
 # ----------------------------------------------------TABLES FOR POLLUTANT PRECAUTIONS-------------------------------------------------- 
 
 # reading csv file containing precautions from pollutants
-Poltab= read.csv("C:/Users/prathibha k s/OneDrive/Desktop/R shiny/pollutants table.csv")
+Poltab= read.csv("C:/Users/SARAH/Desktop/Projects SJC/R shiny/Dataset/pollutants table.csv")
 
 # Table showing PM2.5 cautions
 pm2_5data<-Poltab[,c(1:3)]
