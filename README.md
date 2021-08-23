@@ -20,7 +20,7 @@ The dataset was taken from Kaggle. It is publicly available by the Central Pollu
 Control Board (CPCB) which is the official portal of the Government of India
 
 ### Data Description 
-The dataset consisted of approximately 30,000 rows with data for 26 cities and 12
+The dataset consists of approximately 30,000 rows with data for 26 cities and 12
 different pollutants contributing to the air quality Index (AQI) over a time span of 5
 years i.e;2015-2020.
 
