@@ -3,9 +3,6 @@
 ## Introduction 
 ![AQI](https://user-images.githubusercontent.com/74179721/131791083-fca71340-d716-4cbc-810a-2600a4087f02.jpg)
 
-
-
-
 ### What is Air Quality Index ? 
 The Air Quality Index is a scale designed to convey the current state of air quality to people in
 easily comprehensible terms. It converts the complex air quality data of different pollutants into a
@@ -35,6 +32,9 @@ were left after the pre-processing of the data.
 
 ## Pre-requisites
 Install all of the libraries listed in the Requirements.txt file.
+
+## Project Dashboard Overview
+https://drive.google.com/file/d/1W4ZpbM0qqa7XVFP0-lgyXoAtWodqGS1b/view?usp=sharing
 
 ## Conclusion 
 Through these graphs and statistical tools, it was seen how AQI has changed over the 
