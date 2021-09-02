@@ -1,7 +1,8 @@
 # R-Shiny-Project---AIR-QUALITY INDEX-
 
 ## Introduction 
-![AQI](https://user-images.githubusercontent.com/74179721/131790553-9efe465c-e910-4b5a-aed1-8ad2b5a7c396.jpg)
+![people-masks-because-fine-dust-260nw-1879008679](https://user-images.githubusercontent.com/74179721/131790862-e9c56946-bc00-42d9-9628-1c80922e144d.jpg)
+
 
 
 ### What is Air Quality Index ? 
