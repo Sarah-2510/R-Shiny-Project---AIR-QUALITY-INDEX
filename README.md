@@ -1,7 +1,8 @@
 # R-Shiny-Project---AIR-QUALITY INDEX-
 
 ## Introduction 
-![people-masks-because-fine-dust-260nw-1879008679](https://user-images.githubusercontent.com/74179721/131790862-e9c56946-bc00-42d9-9628-1c80922e144d.jpg)
+![AQI](https://user-images.githubusercontent.com/74179721/131791083-fca71340-d716-4cbc-810a-2600a4087f02.jpg)
+
 
 
 
