@@ -1,6 +1,8 @@
 # R-Shiny-Project---AIR-QUALITY INDEX-
 
 ## Introduction 
+![AQI](https://user-images.githubusercontent.com/74179721/131790553-9efe465c-e910-4b5a-aed1-8ad2b5a7c396.jpg)
+
 
 ### What is Air Quality Index ? 
 The Air Quality Index is a scale designed to convey the current state of air quality to people in
